@@ -1,0 +1,16 @@
+2024-05-26 06:36:58,429 - INFO - File dropped: C:/Users/thejo/Desktop/9JMPKH2.SC2Replay
+2024-05-26 06:36:58,432 - INFO - Status updated: Processing...
+2024-05-26 06:36:58,433 - INFO - Progress bar started.
+2024-05-26 06:36:58,433 - INFO - Processing file: C:/Users/thejo/Desktop/9JMPKH2.SC2Replay
+2024-05-26 06:36:58,433 - INFO - Running command: s2repdump -d players -d banks C:/Users/thejo/Desktop/9JMPKH2.SC2Replay
+2024-05-26 06:37:05,658 - INFO - Running command: s2repdump --bank-rebuild --out C:/Users/thejo/Desktop/test_c C:/Users/thejo/Desktop/9JMPKH2.SC2Replay
+2024-05-26 06:37:06,102 - INFO - Status updated: Success
+2024-05-26 06:37:07,283 - INFO - Progress bar stopped.
+2024-05-26 06:49:19,725 - INFO - File dropped: C:/Users/thejo/Desktop/9JMPKH2.SC2Replay
+2024-05-26 06:49:19,730 - INFO - Status updated: Processing...
+2024-05-26 06:49:19,730 - INFO - Progress bar started.
+2024-05-26 06:49:19,731 - INFO - Processing file: C:/Users/thejo/Desktop/9JMPKH2.SC2Replay
+2024-05-26 06:49:19,731 - INFO - Running command: s2repdump -d players -d banks C:/Users/thejo/Desktop/9JMPKH2.SC2Replay
+2024-05-26 06:49:32,190 - INFO - Running command: s2repdump --bank-rebuild --out C:/Users/thejo/Desktop/Test_b C:/Users/thejo/Desktop/9JMPKH2.SC2Replay
+2024-05-26 06:49:32,630 - INFO - Status updated: Success
+2024-05-26 06:49:33,990 - INFO - Progress bar stopped.
