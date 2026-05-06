@@ -1,1 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Logs
+*.log
+
+# Build output
+build/
+dist/
+*.spec
+
+# Local replay/bank data
+*.SC2Replay
+*.SC2Bank
+rebuilt_banks_test/
+output/
+outputs/
+uploads/
+
+# Editor/OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local/vendor dependency folders
 tools/s2protocol-P3/

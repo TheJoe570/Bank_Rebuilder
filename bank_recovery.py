@@ -1,7 +1,7 @@
 """
     SC2 Replay Bank Rebuilder
     Author: TheJoe570
-    Version: 1.0
+    Version: 1.2
     Date: 2024-05-23
     Description: This script provides a GUI application for processing SC2 replay files (.SC2Replay),
                  extracting player and bank data, and rebuilding bank data using the s2repdump tool.
