@@ -33,3 +33,11 @@ Thumbs.db
 
 # Local/vendor dependency folders
 tools/s2protocol-P3/
+
+
+# Generated SC2 bank/replay outputs
+output/
+outputs/
+exports/
+recovered/
+rebuilds/
