@@ -1,6 +1,3 @@
-Yeah, old README has the bones — it just needs the newbie path cleaned up and the venv setup made explicit.
-
-Here’s a polished replacement:
 
 # SC2 Replay Bank Rebuilder
 
